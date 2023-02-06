@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "LDYG8+suQIutZswIojI8WSL0ghaZSO761IEsuExESZHDqOoeuSYBqMfQYzdy8BRaA5mNYGxaDXwFm7n1WXl6ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain\\ProjetoPratico.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\csharpfunctionalextensions\\2.34.3\\csharpfunctionalextensions.2.34.3.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-rc.1.22426.7\\microsoft.entityframeworkcore.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-rc.1.22426.7\\microsoft.entityframeworkcore.abstractions.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-rc.1.22426.7\\microsoft.entityframeworkcore.analyzers.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.0-rc.1.22426.7\\microsoft.entityframeworkcore.design.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.0-rc.1.22426.7\\microsoft.entityframeworkcore.relational.7.0.0-rc.1.22426.7.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.caching.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-rc.1.22426.10\\microsoft.extensions.caching.memory.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.configuration.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-rc.1.22426.10\\microsoft.extensions.dependencyinjection.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0-rc.1.22426.10\\microsoft.extensions.dependencymodel.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-rc.1.22426.10\\microsoft.extensions.logging.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.logging.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-rc.1.22426.10\\microsoft.extensions.options.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-rc.1.22426.10\\microsoft.extensions.primitives.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\system.text.encodings.web\\7.0.0-rc.1.22426.10\\system.text.encodings.web.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\system.text.json\\7.0.0-rc.1.22426.10\\system.text.json.7.0.0-rc.1.22426.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Infraestructure.Data.Core\\ProjetoPratico.Infraestructure.Data.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain.Core\\ProjetoPratico.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain.Core\\ProjetoPratico.Domain.Core.csproj",
+        "projectName": "ProjetoPratico.Domain.Core",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain.Core\\ProjetoPratico.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain\\ProjetoPratico.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain\\ProjetoPratico.Domain.csproj",
+        "projectName": "ProjetoPratico.Domain",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain\\ProjetoPratico.Domain.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain.Core\\ProjetoPratico.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain.Core\\ProjetoPratico.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.34.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-rc.1.22426.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Infraestructure.Data.Core\\ProjetoPratico.Infraestructure.Data.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Infraestructure.Data.Core\\ProjetoPratico.Infraestructure.Data.Core.csproj",
+        "projectName": "ProjetoPratico.Infraestructure.Data.Core",
+        "projectPath": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Infraestructure.Data.Core\\ProjetoPratico.Infraestructure.Data.Core.csproj",
+        "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Infraestructure.Data.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain\\ProjetoPratico.Domain.csproj": {
+                "projectPath": "C:\\Users\\jorge\\source\\repos\\ProjetoPratico.Domain\\ProjetoPratico.Domain\\ProjetoPratico.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
