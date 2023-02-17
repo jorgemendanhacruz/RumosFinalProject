@@ -71,6 +71,8 @@ namespace ProjetoPratico.API.Controllers.DifficultyLevel
         public async Task Put(int id, [FromBody] int value)
         {
             var level = await _difficultyLevelRepository.GetAsync(id);
+            var condition = ProjetoPratico.Domain.DifficultyLevelCondition.Create(value);
+            level.Edit(condition.Value);
             _difficultyLevelRepository.Modify(level);
             await _cookUnitOfWork.CommitAsync();
         }
